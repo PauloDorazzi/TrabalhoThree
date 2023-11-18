@@ -1,0 +1,6 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: terceiroTrabalho, Configuração: Debug x64 ------
+1>terceiroTrabalho.cpp
+1>terceiroTrabalho.vcxproj -> C:\Users\pcbra\Documents\GitHub\TrabalhoFaculdade\Trabalhos4bim\TrabalhoPrimeiro\TrabalhoThree\terceiroTrabalho\x64\Debug\terceiroTrabalho.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 12:34 AM e levou 01,689 segundos ==========
